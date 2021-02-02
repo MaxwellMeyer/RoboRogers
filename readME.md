@@ -30,7 +30,7 @@ The user can enter a number into the form.  The number will then be evaluated an
 
 
 1. Follow link to my Github repo and/or GH-Pages.
-2. Link to GH-Pages is found [here](https://maxwellmeyer.github.io/codereview3/)
+2. Link to GH-Pages is found [here](https://maxwellmeyer.github.io/RoboRogers/)
 3. Alternatively, clone the repository from GH via [this link](https://github.com/MaxwellMeyer/codereview3.git), and open in browser.
 
 ## Specifications: 
